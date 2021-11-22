@@ -1,0 +1,83 @@
+<div class="container-card" id="lista-cafe">
+	
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/proc-1.jpg" class="u-full-width">
+    </figure>
+    <div class="contenido-card">
+      <h3>PRC0001</h3>
+      <p>Intel Core I5 12600k</p>
+      <p><span class="u-pull-right">$300</span></p>
+      
+      <a class="btn btn-light" onclick="agregar('assets/IMG/proc-1.jpg','Intel Core I5 12600k','$300')">Agregar Al Carrito</a>
+     </div>
+  </div>
+
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/prc2.jpg">
+    </figure>
+    <div class="contenido-card">
+      <h3>PRC0002</h3>
+      <p>Intel Core I7 12700k</p>
+      <p>$450</p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/prc2.jpg','Intel Core I7 12700k','$450')">Agregar Al Carrito</a>
+      </div>
+  </div>
+
+  </div>
+
+  <div class="container-card">
+
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/prc3.jpg">
+    </figure>
+    <div class="contenido-card">
+      <h3>PRC0003</h3>
+      <p>Intel Core I7 11700k</p>
+      <p>$350</p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/prc3.jpg','Intel Core I7 11700k','$350')">Agregar Al Carrito</a>
+      </div>
+  </div>
+
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/prc4.jpg">
+    </figure>
+    <div class="contenido-card">
+      <h3>PRC0004</h3>
+      <p>Intel Core I7 10700k</p>
+      <p>$300</p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/prc4.jpg','Intel Core I7 10700k','$300')">Agregar Al Carrito</a>
+      
+      </div>
+  </div>
+ </div>
+
+ <div class="container-card">
+    
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/prc5.jpg">
+    </figure>
+    <div class="contenido-card">
+      <h3>PRC0005</h3>
+      <p>AMD Ryzen 7 5800X</p>
+      <p>$380</p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/prc5.jpg','AMD Ryzen 7 5800X','$380')">Agregar Al Carrito</a>
+      </div>
+  </div>
+
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/prc-6.jpg">
+    </figure>
+    <div class="contenido-card">
+      <h3>PRC0006</h3>
+      <p>AMD ryzen 9 5950x</p>
+      <p>$750</p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/prc-6.jpg','AMD ryzen 9 5950x','$750')">Agregar Al Carrito</a>
+      </div>
+  </div>
+</div>

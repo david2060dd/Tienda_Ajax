@@ -1,0 +1,84 @@
+<div class="container-card" id="lista-cafe">
+	
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/card1.jpg" class="u-full-width">
+    </figure>
+    <div class="contenido-card">
+      <h3>TG0001</h3>
+      <p>Nvidia GeForce RTX 3080 TI</p>
+      <p><span class="u-pull-right">$1800</span></p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/card1.jpg','Nvidia GeForce RTX 3080 TI','$1800')">Agregar Al Carrito</a>
+     </div>
+  </div>
+
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/card2.jpg">
+    </figure>
+    <div class="contenido-card">
+      <h3>TG0002</h3>
+      <p>Nvidia GeForce RTX 3080</p>
+      <p>$1300</p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/card2.jpg','Nvidia GeForce RTX 3080','$1300')">Agregar Al Carrito</a>
+      </div>
+  </div>
+
+  </div>
+
+  <div class="container-card">
+
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/card3.jpg">
+    </figure>
+    <div class="contenido-card">
+      <h3>TG0003</h3>
+      <p>Nvidia GeForce RTX 3060</p>
+      <p>$880</p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/card3.jpg','Nvidia GeForce RTX 3060','$880')">Agregar Al Carrito</a>
+      </div>
+  </div>
+
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/card4.jpg">
+    </figure>
+    <div class="contenido-card">
+      <h3>TG0004</h3>
+      <p>Nvidia GeForce RTX 3060 TI</p>
+      <p>$900</p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/card4.jpg','Nvidia GeForce RTX 3060 TI','$900')">Agregar Al Carrito</a>
+      </div>
+  </div>
+ </div>
+
+ <div class="container-card">
+    
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/card5.jpg">
+    </figure>
+    <div class="contenido-card">
+      <h3>TG0005</h3>
+      <p>Nvidia GeForce RTX 3070</p>
+      <p>$1000</p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/card5.jpg','Nvidia GeForce RTX 3070','$1000')">Agregar Al Carrito</a>
+      </div>
+  </div>
+
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/card6.jpg">
+    </figure>
+    <div class="contenido-card">
+      <h3>TG0006</h3>
+      <p>Nvidia GeForce RTX 3090</p>
+      <p>$2100</p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/card6.jpg','Nvidia GeForce RTX 3090','$2100')">Agregar Al Carrito</a>
+      </div>
+  </div>
+</div>
+
+
+</div>

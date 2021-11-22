@@ -1,0 +1,81 @@
+<div class="container-card" id="lista-cafe">
+	
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/r1.jpg" class="u-full-width">
+    </figure>
+    <div class="contenido-card">
+      <h3>RL0001</h3>
+      <p>Corsair ICUE élite capelix</p>
+      <p><span class="u-pull-right">$225</span></p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/r1.jpg','Corsair ICUE élite capelix','$225')">Agregar Al Carrito</a>
+     </div>
+  </div>
+
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/r2.jpg">
+    </figure>
+    <div class="contenido-card">
+      <h3>RL0002</h3>
+      <p>Corsair Hydro H100i Platinum SE</p>
+      <p>$200</p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/r2.jpg','Corsair Hydro H100i Platinum SE','$200')">Agregar Al Carrito</a>
+      </div>
+  </div>
+
+  </div>
+
+  <div class="container-card">
+
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/r3.jpg">
+    </figure>
+    <div class="contenido-card">
+      <h3>RL0003</h3>
+      <p>NZXT Kraken X-3 RGB </p>
+      <p>$229</p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/r3.jpg','NZXT Kraken X-3 RGB','$229')">Agregar Al Carrito</a>
+      </div>
+  </div>
+
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/r4.jpg">
+    </figure>
+    <div class="contenido-card">
+      <h3>RL0004</h3>
+      <p>NZXT Kraken X63</p>
+      <p>$160</p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/r4.jpg','NZXT Kraken X63','$160')">Agregar Al Carrito</a>
+      </div>
+  </div>
+ </div>
+
+ <div class="container-card">
+    
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/r5.jpg">
+    </figure>
+    <div class="contenido-card">
+      <h3>RL0005</h3>
+      <p>ASUS ROG Strix LC240 RGB</p>
+      <p>$183</p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/r5.jpg','ASUS ROG Strix LC240 RGB','$183')">Agregar Al Carrito</a>
+      </div>
+  </div>
+
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/r6.jpg">
+    </figure>
+    <div class="contenido-card">
+      <h3>RL0006</h3>
+      <p>ASUS ROG Ryujin 240 RGB 2x 120mm</p>
+      <p>$374</p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/r6.jpg','ASUS ROG Ryujin 240 RGB 2x 120mm','$374')">Agregar Al Carrito</a>
+      </div>
+  </div>
+ </div>

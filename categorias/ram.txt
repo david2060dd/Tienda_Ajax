@@ -1,0 +1,81 @@
+<div class="container-card" id="lista-cafe">
+	
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/ram 1.jpg" class="u-full-width">
+    </figure>
+    <div class="contenido-card">
+      <h3>RM0001</h3>
+      <p>Corsair vengeance rgb pro 2x8GB</p>
+      <p><span class="u-pull-right">$125</span></p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/ram 1.jpg','Corsair vengeance rgb pro 2x8GB','$125')">Agregar Al Carrito</a>
+     </div>
+  </div>
+
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/ram2.jpg">
+    </figure>
+    <div class="contenido-card">
+      <h3>RM0002</h3>
+      <p>RAM hyperx fury RGB 8GB</p>
+      <p>$84</p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/ram2.jpg','RAM hyperx fury RGB 8GB','$84')">Agregar Al Carrito</a>
+      </div>
+  </div>
+
+  </div>
+
+  <div class="container-card">
+
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/ram3.jpg">
+    </figure>
+    <div class="contenido-card">
+      <h3>RM0003</h3>
+      <p>XPG DDR4 D60G RGB 2x8GB</p>
+      <p>$139</p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/ram3.jpg','XPG DDR4 D60G RGB 2x8GB','$139')">Agregar Al Carrito</a>
+      </div>
+  </div>
+
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/ram4.jpg">
+    </figure>
+    <div class="contenido-card">
+      <h3>RM0004</h3>
+      <p>Corsair dominator Platinum RGB 2x8GB</p>
+      <p>$160</p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/ram4.jpg','Corsair dominator Platinum RGB 2x8GB','$160')">Agregar Al Carrito</a>
+      </div>
+  </div>
+ </div>
+
+ <div class="container-card">
+    
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/ram5.jpg">
+    </figure>
+    <div class="contenido-card">
+      <h3>RM0005</h3>
+      <p>Ram Rog Strix Anime Edition 2x8 GB</p>
+      <p>$200</p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/ram5.jpg','Ram Rog Strix Anime Edition 2x8 GB','$200')">Agregar Al Carrito</a>
+      </div>
+  </div>
+
+  <div class="card">
+    <figure>
+      <img src="assets/IMG/ram6.jpg">
+    </figure>
+    <div class="contenido-card">
+      <h3>RM0006</h3>
+      <p>Corsair vengeance pro 2x8 GB</p>
+      <p>$120</p>
+      <a class="btn btn-light" onclick="agregar('assets/IMG/ram6.jpg','Corsair vengeance pro 2x8 GB','$120')">Agregar Al Carrito</a>
+      </div>
+  </div>
+ </div>
